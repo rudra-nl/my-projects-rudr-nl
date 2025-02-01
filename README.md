@@ -115,11 +115,9 @@
       <header class="header">
          <div class="left">
          <img src="img/logo.jpg" alt=""></div>
-         <div> yoga and fitness
-
-        </div>
+         <div> yoga and fitness </div>
           
-        </div>
+        
         <div class="mid">
             <ul class="navbar">
                 <li><a href="#" class="active">HOME</a></li>
