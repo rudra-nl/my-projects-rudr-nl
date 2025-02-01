@@ -111,11 +111,11 @@
 
 </style>
 
-<body>
-    <header class="header">
-        <div class="left">
-        <img src="img/logo.jpg" alt=""></div>
-        <div> yoga and fitness
+ <body>
+      <header class="header">
+         <div class="left">
+         <img src="img/logo.jpg" alt=""></div>
+         <div> yoga and fitness
 
         </div>
           
